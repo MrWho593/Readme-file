@@ -1,8 +1,14 @@
-<h2 align="left">Hi 👋! My name is Shashitha Chamod and I'm a Software engineer, from Sri Lanka.</h2>
+<h2 align="center">Hi 👋! My name is Shashitha Chamod and I'm a Software engineer, from Sri Lanka.</h2>
 
 ###
 
 <p align="center">Interests include UI/UX design, web development, and Android Development.</p>
+
+###
+
+<br clear="both">
+
+<p align="center">----------------------------------------------------------------------------------------------------------------------</p>
 
 ###
 
@@ -14,35 +20,13 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/shashitha-chamod-338556297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Mr_Who593" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://dribbble.com/Mr_Who593" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
-  </a>
-  <a href="https://www.behance.net/shashithachamod" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
-  </a>
-  <a href="https://www.facebook.com/shashithachamod593?mibextid=ZbWKwL" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/mr_who593?igsh=MTZ0Ym13b3JtZmw5Mg==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://inspector-app.slack.com/team/U07R1CRV272" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
-  </a>
-</div>
+<br clear="both">
+
+<p align="center">----------------------------------------------------------------------------------------------------------------------</p>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif?cid=ecf05e477qkmd6y04iuiiq35ckfuej5iiogn6lci1dcogl1r&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -114,7 +98,39 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MrWho593/MrWho593/output/snake.svg" alt="Snake animation" />
+<p align="center">----------------------------------------------------------------------------------------------------------------------</p>
+
+###
+
+<br clear="both">
+
+<img align="right" height="150" src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif?cid=ecf05e477qkmd6y04iuiiq35ckfuej5iiogn6lci1dcogl1r&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shashitha-chamod-338556297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Mr_Who593" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://dribbble.com/Mr_Who593" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
+  </a>
+  <a href="https://www.behance.net/shashithachamod" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+  </a>
+  <a href="https://www.facebook.com/shashithachamod593?mibextid=ZbWKwL" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/mr_who593?igsh=MTZ0Ym13b3JtZmw5Mg==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://inspector-app.slack.com/team/U07R1CRV272" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+  </a>
+</div>
 
 ###
 
